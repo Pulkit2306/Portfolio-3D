@@ -29,5 +29,17 @@
     "postcss": "^8.4.21",
     "tailwindcss": "^3.2.7",
     "vite": "^4.1.0"
-  }
+  },
+  "description": "Created a portfolio based on REACT.",
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pulkit2306/Portfolio-3D.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pulkit2306/Portfolio-3D/issues"
+  },
+  "homepage": "https://github.com/Pulkit2306/Portfolio-3D#readme"
 }
